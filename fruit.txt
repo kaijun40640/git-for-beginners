@@ -9,3 +9,5 @@
 \f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 fruits = ['apple', 'dragonfruit', 'peach', 'banana', 'grape', 'apple', 'peach', 'watermelon', 'grape', 'grape', 'pumpkin']\cb1 \
 }
+
+fruits = set(fruits)
