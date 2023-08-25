@@ -7,5 +7,5 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 veggies = ['cabbage', 'carrot', 'spinach', 'asparagus', 'artichoke', 'pumpkin', 'lettuce']\cb1 \
+\outl0\strokewidth0 \strokec2 veggies = ['cabbage', 'carrot', 'spinach', 'asparagus', 'artichoke', 'lettuce']\cb1 \
 }
